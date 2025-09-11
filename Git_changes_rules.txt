@@ -1,0 +1,9 @@
+From github to git to github
+1.Create Repo in github.
+2.  git clone <HTTPS link>
+3.After new files or changed files
+    git add .
+4.commit
+    git commit -m <Some message>
+5.Push to github
+    git push origin main
