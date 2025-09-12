@@ -8,7 +8,7 @@ From github to git to github
 5.Push to github
     git push origin main
 
-=========================================================
+======================================================
 
 From local to git to github1.
 1.Create new repo => init
