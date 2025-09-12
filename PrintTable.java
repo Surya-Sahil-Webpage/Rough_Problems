@@ -12,5 +12,7 @@ public class PrintTable {
         int n = sc.nextInt();
 
         tables(n);
+
+        sc.close();
     }
 }

@@ -10,6 +10,8 @@ public class EvenOrOdd {
         int k = sc.nextInt();
 
         System.out.println(isEven(k));
+
+        sc.close();
     }
 
 }

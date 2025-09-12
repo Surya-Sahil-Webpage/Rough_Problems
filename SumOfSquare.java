@@ -10,5 +10,7 @@ public class SumOfSquare {
         int n = sc.nextInt();
 
         System.out.println(totalSquare(n));
+
+        sc.close();
     }
 }

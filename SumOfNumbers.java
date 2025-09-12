@@ -19,5 +19,7 @@ public class SumOfNumbers {
 
         // System.out.println(totalSum(n));
         System.out.println(recurssionTotalSum(n));
+
+        sc.close();
     }
 }
