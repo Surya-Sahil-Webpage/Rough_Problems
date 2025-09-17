@@ -8,6 +8,9 @@ From github to git to github
 5.Push to github
     git push origin main
 
+Always pull before coding on a different machine:
+git pull origin main
+
 ======================================================
 
 From local to git to github1.
