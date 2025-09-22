@@ -42,5 +42,7 @@ public class ClosestNumber {
 
         int result = closestNum(n, m);
         System.out.println("Closest divisible number: " + result);
+
+        sc.close();
     }
 }
